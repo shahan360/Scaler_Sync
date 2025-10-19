@@ -61,6 +61,8 @@ Test Output
 Please wait while we are evaluating
 Compiling your Code...
 > Success!
+Running Test Cases...
+> TestCase - Easy Success
 TestTest With Custom Input
 Submit
 Day 14 - Beginner: Iterations : Loop - 3
