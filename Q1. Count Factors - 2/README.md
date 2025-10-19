@@ -78,7 +78,11 @@ class Solution:
                     c+=2
         return c                                         
 Test Output
-Output goes here..Test/Submit
+Please wait while we are evaluating
+Compiling your Code...
+> Success!
+Running Test Cases...
+> TestCase - Easy Success
 TestTest With Custom Input
 Submit
 Day 32 - Beginner Language Test: Discussion
