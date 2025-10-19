@@ -4,23 +4,27 @@
 
 ## Problem Description
 
-Given an integer N, print N stars in a single line.
+Given two integers N and M as inputs, print a rectangle of N * M stars.
 
-For example if N = 5 then pattern will be like:
+For example if N = 3, M = 4 then pattern will be like:
 
-*****
+****
+****
+****
 
 ## Problem Constraints
 
-2 <= N <= 100
+2 <= N, M <= 100
 
 ## Input Format
 
-Single line input contains a single integer N.
+First line of input contains an integers N (no of rows).
+
+Second line of input contains an integer M (no of cols).
 
 ## Output Format
 
-Output N stars in a single line.
+Output N * M rectangle of stars.
 
 ## Solution
 
