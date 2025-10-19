@@ -4,27 +4,26 @@
 
 ## Problem Description
 
-Given two integers N and M as inputs, print a rectangle of N * M stars.
+Take an integer N as input, print the corresponding stair pattern for N.
 
-For example if N = 3, M = 4 then pattern will be like:
+For example if N = 4 then stair pattern will be like:
 
-****
-****
+*
+**
+***
 ****
 
 ## Problem Constraints
 
-2 <= N, M <= 100
+1 <= N <= 100
 
 ## Input Format
 
-First line of input contains an integers N (no of rows).
-
-Second line of input contains an integer M (no of cols).
+First and only line of input contains a single integer N.
 
 ## Output Format
 
-Output N * M rectangle of stars.
+Output the stair pattern corresponding to the given N.
 
 ## Solution
 
