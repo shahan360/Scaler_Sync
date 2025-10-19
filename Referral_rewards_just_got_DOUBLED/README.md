@@ -79,7 +79,9 @@ for i in range(N):
         print("*", end="")
     print("")    
 Test Output
-Output goes here..Test/Submit
+Please wait while we are evaluating
+Compiling your Code...
+> Success!
 TestTest With Custom Input
 Submit
 
