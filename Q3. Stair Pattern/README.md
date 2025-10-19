@@ -58,11 +58,7 @@ def main():
 if __name__ == '__main__':
     main()
 Test Output
-Please wait while we are evaluating
-Compiling your Code...
-> Success!
-Running Test Cases...
-> TestCase - Easy Success
+Output goes here..Test/Submit
 TestTest With Custom Input
 Submit
 Day 14 - Beginner: Iterations : Loop - 3
