@@ -69,7 +69,6 @@ Using hints except Complete Solution is Penalty free now
 20
 21
 # YOUR CODE GOES HERE
-Output goes here..Test/
 
 ## Solution
 
