@@ -1,42 +1,43 @@
 Problem Name: Q2. Is Perfect Square ?
 
-Q2. Is Perfect Square ?
-Solved
-No.	Time	Status	Runtime	Language
+## Problem Description
+
+You are given a function that takes an integer argument A. Return 1 if A is a perfect square otherwise return 0.
+A perfect square is an integer that is the square of an integer. For example 16 is perfect square as it is the square of an integer 4 (42 = 16)
+
+## Problem Constraints
+
+1 <= A <= 108
+
+## Input Format
+
+First argument is an integer A.
+
+## Output Format
+
+Return an integer (0 or 1) based upon the question.
+
+## Example Input
+
+Input 1:
+A = 4
+Input 2:
+A = 1001
+
+## Example Output
+
+Output 1:
 1
-20 Oct 2025, Mon, 12:21 AM
-Correct Answer
-2
-20 Oct 2025, Mon, 12:11 AM
-Correct Answer
-3
-20 Oct 2025, Mon, 12:02 AM
-Correct Answer
-4
-11 Jun 2023, Sun, 9:53 AM
-Correct Answer
-Get your doubts resolved blazing fast with Chat GPT Help
-Using hints except Complete Solution is Penalty free now
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-# @param A : integer
-# @return an integer
-sqrt = A**(1/2)
-sqrt2 = int(sqrt)
-if (sqrt2**2)==A:
-return 1
-else:
-return 0
-Output goes here..Test/
+Output 2:
+0
+Example Explanation
+
+## Example Explanation
+
+Explanation 1:
+sqrt(4) = 2
+Explanation 2:
+1001 is not a perfect square.
 
 ## Solution
 
