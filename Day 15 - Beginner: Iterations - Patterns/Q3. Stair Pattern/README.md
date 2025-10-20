@@ -85,7 +85,9 @@ return 0
 if __name__ == '__main__':
 main()
 Test Output
-Output goes here..Test/Submit
+Please wait while we are evaluating
+Compiling your Code...
+> Success!
 TestTest With Custom Input
 Submit
 Day 14 - Beginner: Iterations : Loop - 3
@@ -102,12 +104,7 @@ All career related classes and 1-1 mentor sessions
 Earn skill certificate to unlock job opportunities
 New
 Day 15 - Beginner: Iterations - Patterns
-Fri, 7 Apr 2023
-Mandatory
-0
-
-100%
-Class Attendan
+Fri, 7 A
 
 ## Solution
 
