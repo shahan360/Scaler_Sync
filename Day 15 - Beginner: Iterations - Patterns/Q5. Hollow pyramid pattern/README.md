@@ -84,7 +84,6 @@ Print the pattern as described.
 20
 21
 # YOUR CODE GOES HERE
-Output goes here..Test/
 
 ## Example Explanation
 
@@ -112,7 +111,6 @@ Print the pattern as described.
 20
 21
 # YOUR CODE GOES HERE
-Output goes here..Test/
 
 ## Solution
 
