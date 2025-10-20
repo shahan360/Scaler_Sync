@@ -1,7 +1,6 @@
 Problem Name: Q5. Hollow pyramid pattern
 
-Q5. Hollow pyramid pattern
-Solved
+Problem description not available
 
 ## Solution
 
