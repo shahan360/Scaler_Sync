@@ -64,24 +64,7 @@ Print the pattern as described.
 20
 21
 # YOUR CODE GOES HERE
-# E.g. 'input()/raw_input()' for input & 'print' for output
-N = int(input())
-for i in range(N):
-for j in range(2*N):
-# Print stars on the left side
-if j < N - i:
-print("*", end="")
-# Print spaces in the middle
-elif j < N - i + 2 * i:
-print(" ", end="")
-# Print stars on the right side
-else:
-print("*", end="")
-print("")  # Move to the next line after each row
-return 0
-if __name__ == '__main__':
-main()
->
+Output goes here..Test/
 
 ## Example Explanation
 
@@ -108,24 +91,7 @@ Print the pattern as described.
 20
 21
 # YOUR CODE GOES HERE
-# E.g. 'input()/raw_input()' for input & 'print' for output
-N = int(input())
-for i in range(N):
-for j in range(2*N):
-# Print stars on the left side
-if j < N - i:
-print("*", end="")
-# Print spaces in the middle
-elif j < N - i + 2 * i:
-print(" ", end="")
-# Print stars on the right side
-else:
-print("*", end="")
-print("")  # Move to the next line after each row
-return 0
-if __name__ == '__main__':
-main()
->
+Output goes here..Test/
 
 ## Solution
 
