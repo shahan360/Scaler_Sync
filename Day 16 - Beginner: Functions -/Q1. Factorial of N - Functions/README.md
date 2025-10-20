@@ -54,7 +54,9 @@ class Solution:
             fact = fact*i
         return fact    
 Test Output
-Output goes here..Test/Submit
+Please wait while we are evaluating
+Compiling your Code...
+> Success!
 TestTest With Custom Input
 Submit
 Day 15 - Beginner: Iterations - Patterns
