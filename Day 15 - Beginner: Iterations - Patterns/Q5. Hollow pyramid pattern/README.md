@@ -1,67 +1,52 @@
 Problem Name: Q5. Hollow pyramid pattern
 
-## Problem Description
+Q5. Hollow pyramid pattern
+Solved
+No.	Time	Status	Runtime	Language
 
-Take an integer N as input, print the corresponding pattern for N.
-
-For example if N = 5 then pattern will be like:
-
-********** // 0 spaces
-
-****__**** // 2 spaces
-
-***____*** // 4 spaces
-
-**______** // 6 spaces
-
-*________* // 8 spaces
-
-NOTE: Here '_' is used to represent spaces. You have to print spaces in your code.
-
-## Problem Constraints
-
-2 <= N <= 100
-
-## Input Format
-
-First and only line of input contains a single integer N.
-
-## Output Format
-
-Output the Full Pyramid pattern corresponding to the given N.
-
-## Example Input
-
-Input 1:
+1
+20 Oct 2025, Mon, 2:00 PM
+Correct Answer
 
 2
-
-Input 2:
+20 Oct 2025, Mon, 12:48 AM
+Correct Answer
 
 3
+20 Oct 2025, Mon, 12:40 AM
+Correct Answer
 
-## Example Output
+4
+20 Oct 2025, Mon, 12:32 AM
+Correct Answer
 
-Output 1:
+5
+20 Oct 2025, Mon, 12:25 AM
+Correct Answer
 
-**** // 0 spaces
+6
+19 Oct 2025, Sun, 9:45 PM
+Correct Answer
 
-*__* // 2 spaces
+7
+19 Oct 2025, Sun, 5:28 PM
+Correct Answer
 
-Output 2:
+8
+19 Apr 2025, Sat, 6:36 PM
+Correct Answer
 
-****** // 0 spaces
+9
+3 Jun 2023, Sat, 6:53 PM
+Correct Answer
+532 ms	Java 8 (oracle-jdk-1.8)
 
-**__** // 2 spaces
-
-*____* // 4 spaces
-
-NOTE: Here '_' is used to represent spaces. You have to print spaces in your code.
-
-Example Explanation
-
-Print the pattern as described.
-
+10
+10 Apr 2023, Mon, 12:16 AM
+Correct Answer
+525 ms	Java 8 (oracle-jdk-1.8)
+Get your doubts resolved blazing fast with Chat GPT Help
+Using hints except Complete Solution is Penalty free now
 1
 2
 3
@@ -84,33 +69,7 @@ Print the pattern as described.
 20
 21
 # YOUR CODE GOES HERE
-
-## Example Explanation
-
-Print the pattern as described.
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-# YOUR CODE GOES HERE
+Output goes here..Test/
 
 ## Solution
 
