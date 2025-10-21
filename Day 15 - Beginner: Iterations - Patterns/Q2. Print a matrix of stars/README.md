@@ -61,7 +61,6 @@ Print the pattern as described.
 6
 7
 # write here
-Output goes here..Test/
 
 ## Example Explanation
 
@@ -75,7 +74,6 @@ Print the pattern as described.
 6
 7
 # write here
-Output goes here..Test/
 
 ## Solution
 
