@@ -22,14 +22,3 @@ public class Main {
         // int sum = 0;
         // int N = scn.nextInt();
         // int A[] = new int[N];
-        // // int l = A.length;
-        // for(int i=0;i<N;i++){
-        //     A[i]=scn.nextInt();
-        // }
-        // for(int i=0; i<A.length ;i++){
-        //     sum = sum+A[i];
-        // }
-        // System.out.println(sum);
-        
-    }
-}
