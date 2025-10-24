@@ -10,6 +10,14 @@ Write a program to input a String str from user and print all its characters lin
 
 ## Input Format
 
+a String str from user and print all its characters line by line.
+
+Problem Constraints
+
+1 <= str.length() <= 103
+
+Input Format
+
 First line contains string str.
 
 ## Output Format
@@ -34,7 +42,6 @@ Example Explanation
 str = "Scaler"
 Print all chars i.e S,c,a,l,e,r line by line.
 
-Java 8 (Oracle-Jdk-1.8)
 1
 2
 3
@@ -58,7 +65,6 @@ Java 8 (Oracle-Jdk-1.8)
 str = "Scaler"
 Print all chars i.e S,c,a,l,e,r line by line.
 
-Java 8 (Oracle-Jdk-1.8)
 1
 2
 3
