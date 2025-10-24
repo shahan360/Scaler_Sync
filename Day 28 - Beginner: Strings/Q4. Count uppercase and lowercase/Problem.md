@@ -38,36 +38,18 @@ Example Explanation
 str = "ElePHant"
 count of uppercase and lowercase letters in str are 3 & 5 respectively.
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+28
+> Ongoing!
+Test
 
 ## Example Explanation
 
 str = "ElePHant"
 count of uppercase and lowercase letters in str are 3 & 5 respectively.
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+28
+> Ongoing!
+Test
 
 ## Solution
 
