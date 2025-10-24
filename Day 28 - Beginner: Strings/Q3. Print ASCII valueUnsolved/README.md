@@ -35,15 +35,15 @@ ASCII value of 'B' = 66
 ASCII value of 'c' = 99
 
 C++17 (Gcc-9.2)
-1
-2
-3
-4
-5
 6
 7
 8
 9
+3
+4
+5
+1
+2
 10
 11
 12
@@ -53,8 +53,6 @@ C++17 (Gcc-9.2)
 16
 17
 18
-19
-using namespace std;
 
 ## Example Explanation
 
@@ -64,15 +62,15 @@ ASCII value of 'B' = 66
 ASCII value of 'c' = 99
 
 C++17 (Gcc-9.2)
-1
-2
-3
-4
-5
 6
 7
 8
 9
+3
+4
+5
+1
+2
 10
 11
 12
@@ -82,8 +80,6 @@ C++17 (Gcc-9.2)
 16
 17
 18
-19
-using namespace std;
 
 ## Solution
 
