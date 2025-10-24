@@ -20,7 +20,6 @@ Using hints except Complete Solution is Penalty free now
 9
 10
 11
-Output goes here..Test/
 
 ## Solution
 
