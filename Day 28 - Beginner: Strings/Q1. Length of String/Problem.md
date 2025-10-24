@@ -2,56 +2,51 @@ Problem Name: Q1. Length of String
 
 ## Problem Description
 
-Solved
-No.	Time	Status	Runtime	Language
+Write a program to input an integer T and then each of T lines will have a string (S).
 
-1
-24 Oct 2025, Fri, 1:43 AM
-Correct Answer
+You have to print T lines each containing length of input string.
 
+## Problem Constraints
+
+1 <= T <= 100
+
+1 <= S.size() <= 1000
+
+## Input Format
+
+an integer T and then each of T lines will have a string (S).
+
+You have to print T lines each containing length of input string.
+
+Problem Constraints
+
+1 <= T <= 100
+
+1 <= S.size() <= 1000
+
+Input Format
+
+First line is T which means number of test cases.
+
+Each next T lines contain a string S.
+
+## Output Format
+
+T lines each containing an integer representing length of the input string.
+
+## Example Input
+
+Input 1:
 2
-24 Oct 2025, Fri, 1:42 AM
-Correct Answer
+scaler
+interviewbit
 
-3
-24 Oct 2025, Fri, 1:31 AM
-Correct Answer
+## Example Output
 
-4
-24 Oct 2025, Fri, 1:25 AM
-Correct Answer
-
-5
-24 Oct 2025, Fri, 1:20 AM
-Correct Answer
-
+Output 1:
 6
-24 Oct 2025, Fri, 1:20 AM
-Correct Answer
-
-7
-24 Oct 2025, Fri, 1:08 AM
-Correct Answer
-
-8
-24 Oct 2025, Fri, 1:06 AM
-Correct Answer
-
-9
-24 Oct 2025, Fri, 12:14 AM
-Correct Answer
-
-10
-23 Oct 2025, Thu, 11:20 PM
-Correct Answer
-
-11
-23 Oct 2025, Thu, 11:19 PM
-Correct Answer
-
 12
-23 Oct 2025, Thu, 10:52 PM
-Correct Answer
+
 1
 2
 3
