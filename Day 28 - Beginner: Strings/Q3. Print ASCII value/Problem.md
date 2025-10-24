@@ -2,12 +2,40 @@ Problem Name: Q3. Print ASCII value
 
 Q3. Print ASCII value
 Solved
-No.	Time	Status	Runtime	Language
 
-1
-23 Oct 2025, Thu, 11:37 PM
-Correct Answer
-65 ms	C++17 (gcc-9.2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Get your doubts resolved blazing fast with Chat GPT Help
 Using hints except Complete Solution is Penalty free now
 C++17 (Gcc-9.2)
@@ -30,7 +58,6 @@ C++17 (Gcc-9.2)
 17
 18
 using namespace std;
-Output goes here..Test/
 
 ## Solution
 
