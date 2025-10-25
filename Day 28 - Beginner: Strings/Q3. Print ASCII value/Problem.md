@@ -55,6 +55,13 @@ ASCII value of 'c' = 99
 10
 11
 12
+13
+14
+15
+16
+17
+18
+using namespace std;
 
 ## Example Explanation
 
@@ -75,7 +82,14 @@ ASCII value of 'c' = 99
 10
 11
 12
+13
+14
+15
+16
+17
+18
+using namespace std;
 
 ## Solution
 
-See `Solution.java` for the implementation.
+See `Solution.cpp` for the implementation.
