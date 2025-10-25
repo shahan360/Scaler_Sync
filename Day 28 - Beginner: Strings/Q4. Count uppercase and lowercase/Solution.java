@@ -24,3 +24,5 @@ public class Main {
         
         System.out.println(upper);
         System.out.println(lower);
+    }
+}
