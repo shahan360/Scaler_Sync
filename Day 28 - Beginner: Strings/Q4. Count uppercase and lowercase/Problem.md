@@ -58,6 +58,12 @@ count of uppercase and lowercase letters in str are 3 & 5 respectively.
 18
 19
 20
+21
+22
+23
+24
+25
+26
 
 ## Example Explanation
 
@@ -84,6 +90,12 @@ count of uppercase and lowercase letters in str are 3 & 5 respectively.
 18
 19
 20
+21
+22
+23
+24
+25
+26
 
 ## Solution
 
