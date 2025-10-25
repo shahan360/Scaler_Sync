@@ -2,40 +2,74 @@ Problem Name: Q4. Count uppercase and lowercase
 
 ## Problem Description
 
-Solved
-No.	Time	Status	Runtime	Language
+Write a program to input a String str from user and print count of uppercase and lowercase letters in it.
 
-1
-24 Oct 2025, Fri, 8:52 PM
-Correct Answer
+## Problem Constraints
 
-2
-24 Oct 2025, Fri, 8:52 PM
-Correct Answer
+1 <= str.length() <= 103
+
+## Input Format
+
+a String str from user and print count of uppercase and lowercase letters in it.
+
+Problem Constraints
+
+1 <= str.length() <= 103
+
+Input Format
+
+First line contains string str.
+
+## Output Format
+
+Print count of uppercase and lowercase letters in str in two seperated lines.
+
+## Example Input
+
+ElePHant
+
+## Example Output
 
 3
-24 Oct 2025, Fri, 8:50 PM
-Correct Answer
-
-4
-24 Oct 2025, Fri, 8:17 PM
-Correct Answer
-
 5
-24 Oct 2025, Fri, 9:15 AM
-Correct Answer
 
+Example Explanation
+
+str = "ElePHant"
+count of uppercase and lowercase letters in str are 3 & 5 respectively.
+
+1
+2
+3
+4
+5
 6
-24 Oct 2025, Fri, 9:07 AM
-Correct Answer
-
 7
-24 Oct 2025, Fri, 9:06 AM
-Correct Answer
-
 8
-24 Oct 2025, Fri, 9:05 AM
-Correct Answer
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+## Example Explanation
+
+str = "ElePHant"
+count of uppercase and lowercase letters in str are 3 & 5 respectively.
+
 1
 2
 3
