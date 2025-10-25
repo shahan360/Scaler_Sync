@@ -18,3 +18,9 @@ public class Main {
             if (Character.isUpperCase(ch)) {
                 upper++;
             } else if (Character.isLowerCase(ch)) {
+                lower++;
+            }
+        }
+        
+        System.out.println(upper);
+        System.out.println(lower);
