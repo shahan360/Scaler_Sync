@@ -42,28 +42,20 @@ count of uppercase and lowercase letters in str are 3 & 5 respectively.
 2
 3
 4
+14
+15
+16
+17
+7
 5
 6
-7
 8
 9
 10
 11
 12
 13
-14
-15
-16
-17
 18
-19
-20
-21
-22
-23
-24
-25
-26
 
 ## Example Explanation
 
@@ -74,29 +66,21 @@ count of uppercase and lowercase letters in str are 3 & 5 respectively.
 2
 3
 4
+14
+15
+16
+17
+7
 5
 6
-7
 8
 9
 10
 11
 12
 13
-14
-15
-16
-17
 18
-19
-20
-21
-22
-23
-24
-25
-26
 
 ## Solution
 
-See `Solution.java` for the implementation.
+See `Solution.py` for the implementation.
