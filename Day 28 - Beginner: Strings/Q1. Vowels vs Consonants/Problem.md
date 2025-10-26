@@ -47,29 +47,21 @@ Output 1:
 2
 3
 4
-5
-6
+14
+15
+16
+17
 7
 8
+5
+6
 9
 10
 11
 12
 13
-14
-15
-16
-17
 18
-19
-20
-21
-22
-23
-24
-25
-26
 
 ## Solution
 
-See `Solution.java` for the implementation.
+See `Solution.py` for the implementation.
