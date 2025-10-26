@@ -48,20 +48,12 @@ ASCII value of 'c' = 99
 3
 4
 5
-6
-7
 8
 9
 10
+6
+7
 11
-12
-13
-14
-15
-16
-17
-18
-using namespace std;
 
 ## Example Explanation
 
@@ -75,21 +67,13 @@ ASCII value of 'c' = 99
 3
 4
 5
-6
-7
 8
 9
 10
+6
+7
 11
-12
-13
-14
-15
-16
-17
-18
-using namespace std;
 
 ## Solution
 
-See `Solution.cpp` for the implementation.
+See `Solution.py` for the implementation.
