@@ -2,26 +2,51 @@ Problem Name: Q1. Length of String
 
 ## Problem Description
 
-Solved
-HINT SUPPORT
-Hint 1
-Seen
-View
-Solution Approach
-Seen
-View
-Complete Solution
-Seen
-View
-Note : Points get deducted only when you unlock complete solution - 50% Point Reduction
-TEACHING ASSISTANT (TA) - HELP REQUEST
-When can I access TA - Help Requests?
-Solve problems on your own first. This will deepen your understanding of the topics and increase your confidence. Use the free hints provided by your instructors if you get stuck. TAs are here to help, but you'll learn best by trying to solve problems on your own. Hence, TA Help Requests will be accessible to you only after you use all the 'free hints' available for the problem.
-Which type of Help Request should I make and how?
-Refer to the video guide on raising TA Help Request'
-Play
-00:00 / 01:36
-1.5x
+Write a program to input an integer T and then each of T lines will have a string (S).
+
+You have to print T lines each containing length of input string.
+
+## Problem Constraints
+
+1 <= T <= 100
+
+1 <= S.size() <= 1000
+
+## Input Format
+
+an integer T and then each of T lines will have a string (S).
+
+You have to print T lines each containing length of input string.
+
+Problem Constraints
+
+1 <= T <= 100
+
+1 <= S.size() <= 1000
+
+Input Format
+
+First line is T which means number of test cases.
+
+Each next T lines contain a string S.
+
+## Output Format
+
+T lines each containing an integer representing length of the input string.
+
+## Example Input
+
+Input 1:
+2
+scaler
+interviewbit
+
+## Example Output
+
+Output 1:
+6
+12
+
 1
 2
 3
