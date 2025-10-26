@@ -2,26 +2,65 @@ Problem Name: Q2. Print all chars
 
 ## Problem Description
 
-Solved
-HINT SUPPORT
-Hint 1
-Seen
-View
-Solution Approach
-Seen
-View
-Complete Solution
-Seen
-View
-Note : Points get deducted only when you unlock complete solution - 50% Point Reduction
-TEACHING ASSISTANT (TA) - HELP REQUEST
-When can I access TA - Help Requests?
-Solve problems on your own first. This will deepen your understanding of the topics and increase your confidence. Use the free hints provided by your instructors if you get stuck. TAs are here to help, but you'll learn best by trying to solve problems on your own. Hence, TA Help Requests will be accessible to you only after you use all the 'free hints' available for the problem.
-Which type of Help Request should I make and how?
-Refer to the video guide on raising TA Help Request'
-Play
-00:00 / 01:36
-1.5x
+Write a program to input a String str from user and print all its characters line by line.
+
+## Problem Constraints
+
+1 <= str.length() <= 103
+
+## Input Format
+
+a String str from user and print all its characters line by line.
+
+Problem Constraints
+
+1 <= str.length() <= 103
+
+Input Format
+
+First line contains string str.
+
+## Output Format
+
+Print all characters of str in seperated lines.
+
+## Example Input
+
+Scaler
+
+## Example Output
+
+S
+c
+a
+l
+e
+r
+
+Example Explanation
+
+str = "Scaler"
+Print all chars i.e S,c,a,l,e,r line by line.
+
+1
+2
+3
+4
+9
+10
+11
+12
+5
+6
+7
+8
+13
+
+## Example Explanation
+
+str = "Scaler"
+Print all chars i.e S,c,a,l,e,r line by line.
+
 1
 2
 3
