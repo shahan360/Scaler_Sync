@@ -2,8 +2,10 @@ def main():
     # YOUR CODE GOES HERE
     # Please take input and print output to standard input/output (stdin/stdout)
     # E.g. 'input()/raw_input()' for input & 'print' for output
-    for _ in range(int(input())):
-        print(len(input()))
+    T = int(input())
+    for _ in range(T):
+        S = int(input())
+        print(len(S))
 
     return 0
 
