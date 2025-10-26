@@ -46,19 +46,14 @@ Print all chars i.e S,c,a,l,e,r line by line.
 2
 3
 4
-5
-6
-7
 8
 9
 10
 11
+5
+6
+7
 12
-13
-14
-15
-16
-17
 
 ## Example Explanation
 
@@ -69,20 +64,15 @@ Print all chars i.e S,c,a,l,e,r line by line.
 2
 3
 4
-5
-6
-7
 8
 9
 10
 11
+5
+6
+7
 12
-13
-14
-15
-16
-17
 
 ## Solution
 
-See `Solution.java` for the implementation.
+See `Solution.py` for the implementation.
