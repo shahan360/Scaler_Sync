@@ -46,14 +46,15 @@ Print all chars i.e S,c,a,l,e,r line by line.
 2
 3
 4
-8
 9
 10
 11
+12
 5
 6
 7
-12
+8
+13
 
 ## Example Explanation
 
@@ -64,14 +65,15 @@ Print all chars i.e S,c,a,l,e,r line by line.
 2
 3
 4
-8
 9
 10
 11
+12
 5
 6
 7
-12
+8
+13
 
 ## Solution
 
