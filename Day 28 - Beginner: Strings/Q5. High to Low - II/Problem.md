@@ -45,4 +45,4 @@ Clearly, lowercase of SCALER is scaler.
 
 ## Solution
 
-See `Solution.java` for the implementation.
+See `Solution.py` for the implementation.
