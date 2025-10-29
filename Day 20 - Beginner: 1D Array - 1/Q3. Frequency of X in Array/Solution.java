@@ -1,12 +1,11 @@
 public class Solution {
-    public int solve(int[] A, int B) {
-        
-        int count = 0;
+    // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
+    public int[] solve(final int[] A, int B) {
+        int outArr[] = new int[A.length];
         for(int i=0;i<A.length;i++){
-            if(A[i]==B){
-                count++;
-            }
+            outArr[i]=A[i]+B;
         }
-        return count;
+
+        return outArr;
     }
 }
