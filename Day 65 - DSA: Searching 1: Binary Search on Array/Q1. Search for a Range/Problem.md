@@ -48,4 +48,4 @@ There is no occurrence of 3 in the array.
 
 ## Solution
 
-See `Solution.java` for the implementation.
+See `Solution.py` for the implementation.
