@@ -6,13 +6,6 @@
 
 class Solution:
     # @param A : head node of linked list
-    def solve(self, A):
-        temp = A
-        result = []
-        while temp is not None:
-            result.append(str(temp.val))
-            temp = temp.next
-        # Join the values with space and print once
-        print(" ".join(result)+" ")
-            
-
+    # @param B : integer
+    # @return an integer
+    def solve(self, A, B):
