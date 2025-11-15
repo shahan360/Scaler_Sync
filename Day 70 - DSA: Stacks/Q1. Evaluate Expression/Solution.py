@@ -9,12 +9,12 @@ class Solution:
             else:
                 b = stack.pop()
                 a = stack.pop()
-                if token == '+':
-                    stack.append(a + b)
-                elif token == '-':
-                    stack.append(a - b)
-                elif token == '*':
-                    stack.append(a * b)
-                elif token == '/':
-                    stack.append(int(a / b))
+                if token == "+":
+                    stack.append(a+b)
+                elif token == "-":
+                    stack.append(a-b)
+                elif token == "*":
+                    stack.append(a*b)
+                elif token == "/":
+                    stack.append(int(a/b))
         return stack[0]
