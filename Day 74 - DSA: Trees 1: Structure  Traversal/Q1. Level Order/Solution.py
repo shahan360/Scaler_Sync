@@ -26,7 +26,5 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            
             result.append(current_level)
-        
         return result
