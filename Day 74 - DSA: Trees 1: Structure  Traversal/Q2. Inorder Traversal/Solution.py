@@ -13,11 +13,10 @@ class Solution:
 
         def inorder(node):
             if not node:
-                return 
-            
+                return
             inorder(node.left)
             result.append(node.val)
             inorder(node.right)
-        
+
         inorder(A)
         return result
