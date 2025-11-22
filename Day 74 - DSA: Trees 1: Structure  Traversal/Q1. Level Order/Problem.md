@@ -2,47 +2,49 @@ Problem Name: Q1. Level Order
 
 ## Problem Description
 
-Solved
-No.	Time	Status	Runtime	Language
+Given a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
 
-1
-13 Nov 2025, Thu, 10:03 PM
-Correct Answer
-1
-2
+## Problem Constraints
+
+1 <= number of nodes <= 105
+
+## Input Format
+
+First and only argument is root node of the binary tree, A.
+
+## Output Format
+
+## Example Input
+
+Input 1:
 3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-# Definition for a  binary tree node
-# class TreeNode:
-#    def __init__(self, x):
-#        self.val = x
-#        self.left = None
-#        self.right = None
-# @param A : root node of tree
-# @return a list of list of integers
-if not A:
+/ \
+9  20
+/  \
+15   7
+Input 2:
+1
+/ \
+6   2
+/
+3
+
+## Example Output
+
+Output 1:
+[3],
+[9, 20],
+[15, 7]
+Output 2:
+[1]
+[6, 2]
+[3]
+
+Example Explanation
+
+## Example Explanation
+
+Explanation 1:
 
 ## Solution
 
