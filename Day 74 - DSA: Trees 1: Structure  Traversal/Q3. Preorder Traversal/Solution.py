@@ -13,10 +13,9 @@ class Solution:
 
         def preorder(node):
             if not node:
-                return 
+                return
             result.append(node.val)
             preorder(node.left)
             preorder(node.right)
-        
         preorder(A)
         return result
