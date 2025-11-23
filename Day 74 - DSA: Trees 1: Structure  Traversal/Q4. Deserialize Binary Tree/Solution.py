@@ -18,7 +18,6 @@ class Solution:
 
         while queue and i < len(A):
             current = queue.pop(0)
-
             # Left child
             if i < len(A):
                 if A[i] != -1:
@@ -27,7 +26,6 @@ class Solution:
                 else:
                     current.left = None
                 i += 1
-
             # Right child
             if i < len(A):
                 if A[i] != -1:
@@ -36,6 +34,5 @@ class Solution:
                 else:
                     current.right = None
                 i += 1
-
         return root
 
