@@ -4,35 +4,33 @@
 #        self.val = x
 #        self.left = None
 #        self.right = None
+sys.setrecursionlimit(10**6) 
 
+from collections import deque 
 class Solution:
     # @param A : list of integers
     # @return the root node in the tree
     def solve(self, A):
-        if not A or A[0] == -1:
-            return None
-
         root = TreeNode(A[0])
-        queue = [root]
+        q = deque()
+        q.append(root)
         i = 1
-
-        while queue and i < len(A):
-            current = queue.pop(0)
-            # Left child
-            if i < len(A):
-                if A[i] != -1:
-                    current.left = TreeNode(A[i])
-                    queue.append(current.left)
-                else:
-                    current.left = None
-                i += 1
-            # Right child
-            if i < len(A):
-                if A[i] != -1:
-                    current.right = TreeNode(A[i])
-                    queue.append(current.right)
-                else:
-                    current.right = None
-                i += 1
+        while(len(q) != 0):
+            cur = q.popleft()
+            if(cur == None):
+                continue
+            val_left = A[i]
+            val_right = A[i+1]
+            i += 2
+            if(val_left == -1):
+                cur.left = None
+            else:
+                cur.left = TreeNode(val_left)
+            if(val_right == -1):
+                cur.right = None
+            else:
+                cur.right = TreeNode(val_right)
+            q.append(cur.left)
+            q.append(cur.right)
         return root
 
