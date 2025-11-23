@@ -18,20 +18,17 @@ class Solution:
 
         while queue and i < len(A):
             current = queue.pop(0)
-
-            # Assign left child
+            # Left child
             if i < len(A):
                 if A[i] != -1:
                     current.left = TreeNode(A[i])
                     queue.append(current.left)
                 i += 1
-
-            # Assign right child
+            # Right child
             if i < len(A):
                 if A[i] != -1:
                     current.right = TreeNode(A[i])
                     queue.append(current.right)
                 i += 1
-
         return root
 
