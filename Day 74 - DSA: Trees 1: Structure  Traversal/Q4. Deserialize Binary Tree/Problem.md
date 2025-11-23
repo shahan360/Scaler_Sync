@@ -12,8 +12,8 @@ Video Explanation
 Rate Now
 View
 Complete Solution
-50% points reduction
-Unlock
+Seen
+View
 Note : Points get deducted only when you unlock complete solution - 50% Point Reduction
 Remember!
 
@@ -36,6 +36,9 @@ Play
 25
 26
 18
+15
+16
+17
 27
 28
 29
@@ -45,24 +48,22 @@ Play
 33
 34
 35
-36
-37
-38
-39
-while queue and i < len(A):
-current = queue.pop(0)
-# Left child
-if A[i] != -1:
-current.left = TreeNode(A[i])
-queue.append(current.left)
-current.left = None
-i += 1
-# Right child
-if A[i] != -1:
-current.right = TreeNode(A[i])
-queue.append(current.right)
-current.right = None
-i += 1
+continue
+val_left = A[i]
+val_right = A[i+1]
+i += 2
+if(val_left == -1):
+cur.left = None
+cur.left = TreeNode(val_left)
+if(cur == None):
+i = 1
+while(len(q) != 0):
+cur = q.popleft()
+if(val_right == -1):
+cur.right = None
+cur.right = TreeNode(val_right)
+q.append(cur.left)
+q.append(cur.right)
 
 ## Input Format
 
@@ -85,6 +86,9 @@ Play
 25
 26
 18
+15
+16
+17
 27
 28
 29
@@ -94,24 +98,22 @@ Play
 33
 34
 35
-36
-37
-38
-39
-while queue and i < len(A):
-current = queue.pop(0)
-# Left child
-if A[i] != -1:
-current.left = TreeNode(A[i])
-queue.append(current.left)
-current.left = None
-i += 1
-# Right child
-if A[i] != -1:
-current.right = TreeNode(A[i])
-queue.append(current.right)
-current.right = None
-i += 1
+continue
+val_left = A[i]
+val_right = A[i+1]
+i += 2
+if(val_left == -1):
+cur.left = None
+cur.left = TreeNode(val_left)
+if(cur == None):
+i = 1
+while(len(q) != 0):
+cur = q.popleft()
+if(val_right == -1):
+cur.right = None
+cur.right = TreeNode(val_right)
+q.append(cur.left)
+q.append(cur.right)
 
 ## Output Format
 
@@ -134,6 +136,9 @@ Play
 25
 26
 18
+15
+16
+17
 27
 28
 29
@@ -143,32 +148,30 @@ Play
 33
 34
 35
-36
-37
-38
-39
-while queue and i < len(A):
-current = queue.pop(0)
-# Left child
-if A[i] != -1:
-current.left = TreeNode(A[i])
-queue.append(current.left)
-current.left = None
-i += 1
-# Right child
-if A[i] != -1:
-current.right = TreeNode(A[i])
-queue.append(current.right)
-current.right = None
-i += 1
+continue
+val_left = A[i]
+val_right = A[i+1]
+i += 2
+if(val_left == -1):
+cur.left = None
+cur.left = TreeNode(val_left)
+if(cur == None):
+i = 1
+while(len(q) != 0):
+cur = q.popleft()
+if(val_right == -1):
+cur.right = None
+cur.right = TreeNode(val_right)
+q.append(cur.left)
+q.append(cur.right)
 
 ## Example Explanation
 
 Rate Now
 View
 Complete Solution
-50% points reduction
-Unlock
+Seen
+View
 Note : Points get deducted only when you unlock complete solution - 50% Point Reduction
 Remember!
 
@@ -191,6 +194,9 @@ Play
 25
 26
 18
+15
+16
+17
 27
 28
 29
@@ -200,24 +206,22 @@ Play
 33
 34
 35
-36
-37
-38
-39
-while queue and i < len(A):
-current = queue.pop(0)
-# Left child
-if A[i] != -1:
-current.left = TreeNode(A[i])
-queue.append(current.left)
-current.left = None
-i += 1
-# Right child
-if A[i] != -1:
-current.right = TreeNode(A[i])
-queue.append(current.right)
-current.right = None
-i += 1
+continue
+val_left = A[i]
+val_right = A[i+1]
+i += 2
+if(val_left == -1):
+cur.left = None
+cur.left = TreeNode(val_left)
+if(cur == None):
+i = 1
+while(len(q) != 0):
+cur = q.popleft()
+if(val_right == -1):
+cur.right = None
+cur.right = TreeNode(val_right)
+q.append(cur.left)
+q.append(cur.right)
 
 ## Solution
 
