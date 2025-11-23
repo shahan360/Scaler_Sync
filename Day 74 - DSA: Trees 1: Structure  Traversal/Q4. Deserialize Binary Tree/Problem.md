@@ -27,27 +27,32 @@ Refer to the video guide on raising TA Help Request'
 Play
 00:00 / 01:36
 2x
-19
-20
 21
 22
 23
 24
 25
 26
-18
-15
-16
-17
 27
 28
+20
+17
+18
+19
 29
-30
-31
-32
-33
-34
-35
+14
+15
+16
+11
+12
+13
+4
+5
+6
+7
+10
+8
+9
 continue
 val_left = A[i]
 val_right = A[i+1]
@@ -60,10 +65,17 @@ i = 1
 while(len(q) != 0):
 cur = q.popleft()
 if(val_right == -1):
-cur.right = None
-cur.right = TreeNode(val_right)
-q.append(cur.left)
-q.append(cur.right)
+root = TreeNode(A[0])
+q = deque()
+q.append(root)
+# @param A : list of integers
+# @return the root node in the tree
+#        self.val = x
+#        self.left = None
+#        self.right = None
+sys.setrecursionlimit(10**6)
+> Ongoing!
+Test
 
 ## Input Format
 
@@ -77,27 +89,32 @@ Refer to the video guide on raising TA Help Request'
 Play
 00:00 / 01:36
 2x
-19
-20
 21
 22
 23
 24
 25
 26
-18
-15
-16
-17
 27
 28
+20
+17
+18
+19
 29
-30
-31
-32
-33
-34
-35
+14
+15
+16
+11
+12
+13
+4
+5
+6
+7
+10
+8
+9
 continue
 val_left = A[i]
 val_right = A[i+1]
@@ -110,10 +127,17 @@ i = 1
 while(len(q) != 0):
 cur = q.popleft()
 if(val_right == -1):
-cur.right = None
-cur.right = TreeNode(val_right)
-q.append(cur.left)
-q.append(cur.right)
+root = TreeNode(A[0])
+q = deque()
+q.append(root)
+# @param A : list of integers
+# @return the root node in the tree
+#        self.val = x
+#        self.left = None
+#        self.right = None
+sys.setrecursionlimit(10**6)
+> Ongoing!
+Test
 
 ## Output Format
 
@@ -127,27 +151,32 @@ Refer to the video guide on raising TA Help Request'
 Play
 00:00 / 01:36
 2x
-19
-20
 21
 22
 23
 24
 25
 26
-18
-15
-16
-17
 27
 28
+20
+17
+18
+19
 29
-30
-31
-32
-33
-34
-35
+14
+15
+16
+11
+12
+13
+4
+5
+6
+7
+10
+8
+9
 continue
 val_left = A[i]
 val_right = A[i+1]
@@ -160,10 +189,17 @@ i = 1
 while(len(q) != 0):
 cur = q.popleft()
 if(val_right == -1):
-cur.right = None
-cur.right = TreeNode(val_right)
-q.append(cur.left)
-q.append(cur.right)
+root = TreeNode(A[0])
+q = deque()
+q.append(root)
+# @param A : list of integers
+# @return the root node in the tree
+#        self.val = x
+#        self.left = None
+#        self.right = None
+sys.setrecursionlimit(10**6)
+> Ongoing!
+Test
 
 ## Example Explanation
 
@@ -185,27 +221,32 @@ Refer to the video guide on raising TA Help Request'
 Play
 00:00 / 01:36
 2x
-19
-20
 21
 22
 23
 24
 25
 26
-18
-15
-16
-17
 27
 28
+20
+17
+18
+19
 29
-30
-31
-32
-33
-34
-35
+14
+15
+16
+11
+12
+13
+4
+5
+6
+7
+10
+8
+9
 continue
 val_left = A[i]
 val_right = A[i+1]
@@ -218,10 +259,17 @@ i = 1
 while(len(q) != 0):
 cur = q.popleft()
 if(val_right == -1):
-cur.right = None
-cur.right = TreeNode(val_right)
-q.append(cur.left)
-q.append(cur.right)
+root = TreeNode(A[0])
+q = deque()
+q.append(root)
+# @param A : list of integers
+# @return the root node in the tree
+#        self.val = x
+#        self.left = None
+#        self.right = None
+sys.setrecursionlimit(10**6)
+> Ongoing!
+Test
 
 ## Solution
 
